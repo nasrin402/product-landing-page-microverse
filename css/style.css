@@ -170,7 +170,7 @@ nav > ul {
 }
 
 #features {
-  margin-top: 30px;
+  margin-top: 40px;
 }
 
 #features .icon {
@@ -197,7 +197,7 @@ nav > ul {
   padding: 5px;
 }
 
-@media (max-width: 550px) {
+@media (max-width: 600px) {
   #features .desc {
     width: 100%;
     text-align: center;
@@ -206,14 +206,14 @@ nav > ul {
   }
 }
 
-@media (max-width: 650px) {
+@media (max-width: 700px) {
   #features {
     margin-top: 0;
   }
 }
 
 #how-it-works {
-  margin-top: 50px;
+  margin-top: 60px;
   display: flex;
   justify-content: center;
 }
